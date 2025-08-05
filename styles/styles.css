@@ -39,7 +39,7 @@ header nav{
  }
  .card1 p {
     margin-inline-start: 160px;
-    font-size: large;
+    font-size: large; 
  }
  .card2 {
     border: solid white 3px;

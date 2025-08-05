@@ -4,7 +4,7 @@ body {
    
    header p {
        font-size: large;
-       font-weight: 1000;
+       font-weight: 500;
        margin-inline-start:  560px;
        padding: 20px;
    }
@@ -17,4 +17,27 @@ body {
 ul {
     list-style: none;
     display: inline-block;
+}
+
+.figura {
+    background-color: rgb(255, 255, 255);
+    width: 700px;
+    height: 400px;
+    border: solid pink 2px;
+    border-radius: 7px;
+    margin: 20px;
+   display: inline-table
+}
+.cards p {
+    margin-inline-start: 200px;
+}
+
+.img1, .img2, .img3 {
+    margin: 20px
+}
+
+.pa {
+ margin-inline-start: 800px;
+ margin-block-start: -600px;
+ font-size: 30px;
 }
