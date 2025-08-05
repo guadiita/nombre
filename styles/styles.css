@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+
+.tipos ul{
+    list-style: none ;
+}
+.tipos {
+    background-color: bisque;
+    width: 1500px; 
+    height: 600px;
+    border: solid pink 2px;
+    border-radius: 7px;
+    margin: 20px;
+}
+
+body {
+ background-color: beige;
+}
+
+header p {
+    font-size: large;
+    font-weight: 1000;
+    margin-inline-start:  750px;
+    padding: 20px;
+}
+header nav{
+    font-size: medium;
+    font-weight: 600;
+    margin-inline-start: 700px;
+}
+.cards {
+    display: inline-flex; 
+    margin: 20px;
+}
+ .card1 {
+    border: solid white 3px;
+    border-radius: 10px;
+    margin: 10px;
+ }
+ .card1 p {
+    margin-inline-start: 160px;
+    font-size: large;
+ }
+ .card2 {
+    border: solid white 3px;
+    border-radius: 10px;
+    margin: 10px;
+ }
+ .card2 p {
+    margin-inline-start: 120px;
+    font-size: large;
+ }
+ .card3 {
+    border: solid white 3px;
+    border-radius: 10px;
+    margin: 10px;
+ }
+ .card3 p {
+    margin-inline-start: 120px;
+  font-size: large;
+ }
+ .img, .img1, .img2 {
+  margin: 20px;
+ }
