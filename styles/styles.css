@@ -62,3 +62,14 @@ header nav{
  .img, .img1, .img2 {
   margin: 20px;
  }
+
+.pie p {
+   font-size: 20px;
+  margin-block-start: 200px;
+}
+
+
+p {
+  margin: 40px;
+  font-size: 30px;
+ }
