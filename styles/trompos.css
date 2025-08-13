@@ -3,9 +3,9 @@ body {
    }
    
    header p {
-       font-size: large;
+       font-size: 30px;
        font-weight: 800;
-       margin-inline-start:  600px;
+       margin-inline-start: 520px;
        padding: 20px;
    }
    header nav{
@@ -13,3 +13,203 @@ body {
        font-weight: 600;
        margin-inline-start: 605px;
    }
+
+main ol {
+ list-style: none;
+ font-size: large;
+}
+main p{
+    font-size: large;
+    font-weight: 200;
+    margin-inline-start: 38px;
+}
+
+.cards{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-inline-start: 40px;
+}
+
+
+.card1 {
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 250px;
+    border: solid pink 2px;
+    border-radius: 7px;
+    margin: 0px;
+   display: inline-table;
+   padding: 0px;
+}
+
+.card1 p {
+    font-size: large;
+    margin-inline-start: 200px;
+    margin-bottom: -68px;
+}
+
+.img1 {
+    padding: 93px;
+    margin-block: 0px;
+    padding-inline-start: 70px;
+    padding-block-start: 119px;
+    height: 200px;
+}
+
+.card2 {
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 250px;
+    border: solid pink 2px;
+    border-radius: 7px;
+    margin: 0px;
+   display: inline-table;
+   padding: 0px;
+   margin-inline-start: 20px;
+}
+
+.card2 p {
+    font-size: large;
+    margin-inline-start: 162px;
+    margin-bottom: -68px;
+}
+
+.img2 {
+    padding: 93px;
+    margin-block: 0px;
+    padding-inline-start: 90px;
+    padding-block-start: 119px;
+    height: 200px;
+}
+
+.card3 {
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 250px;
+    border: solid pink 2px;
+    border-radius: 7px;
+    margin: 0px;
+   display: inline-table;
+   padding: 0px;
+   margin-inline-start: 20px;
+}
+
+.card3 p {
+    font-size: large;
+    margin-inline-start: 170px;
+    margin-bottom: -68px;
+}
+
+.img3 {
+    padding: 93px;
+    margin-block: 0px;
+    padding-inline-start: 128px;
+    padding-block-start: 119px;
+    height: 200px;
+}
+
+.cards2{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding: 0px;
+    margin-inline-start: 40px;
+}
+
+.card4 {
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 250px;
+    border: solid pink 2px;
+    border-radius: 7px;
+    margin: 0px;
+   display: inline-table;
+   margin-block: 20px;
+   padding-inline: 32px;
+}
+
+.card4 p {
+    font-size: large;
+    margin-inline-start: 155px;
+    margin-bottom: -68px;
+}
+
+.img4 {
+    padding: 93px;
+    margin-block: 0px;
+    padding-inline-start: 70px;
+    padding-block-start: 119px;
+    height: 200px;
+}
+
+.card5 {
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 250px;
+    border: solid pink 2px;
+    border-radius: 7px; 
+    margin: 0px;
+   display: inline-table;
+   margin-block: 20px;
+   margin-inline-start: 20px;
+   padding-inline: 0px;
+}
+
+
+.card5 p {
+    font-size: large;
+    margin-inline-start: 165px;
+    margin-bottom: -68px;
+}
+
+.img5 {
+    padding: 93px;
+    margin-block: -1px;
+    padding-inline-start: 60px;
+    padding-inline-end: 30px;
+    padding-block-start: 119px;
+    height: 202px;
+}
+
+
+.card6 {
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 250px;
+    border: solid pink 2px;
+    border-radius: 7px;
+    margin: 0px;
+   display: inline-table;
+   margin-block: 20px;
+   margin-inline-start: 20px;
+   padding-inline: 6px;
+}
+
+.card6 p {
+    font-size: large;
+    margin-inline-start: 178px;
+    margin-bottom: -68px;
+}
+
+.img6 {
+    padding: 93px;
+    margin-block: 0px;
+    padding-inline-start: 106px;
+    padding-block-start: 120px;
+    height: 200px;
+}
+
+footer p{
+    font-size: 20px;
+    margin-inline-start: 100px;
+}
+
+.values {
+    width: 500px;
+    margin-inline-start: 500px;
+}
+.in{
+    width: 500px;
+    margin-inline-start: 500px; 
+}

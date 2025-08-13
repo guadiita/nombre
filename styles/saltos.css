@@ -13,3 +13,225 @@ body {
        font-weight: 600;
        margin-inline-start: 605px;
    }
+
+
+.cards{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-inline-start: 120px;
+}
+
+.card1 {
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 250px;
+    border: solid pink 2px;
+    border-radius: 7px;
+    margin: 0px;
+   display: inline-table;
+   padding: 0px;
+}
+
+
+.nombre {
+    font-size: large;
+    margin-inline-start: 220px;
+    margin-bottom: -68px;
+    padding: 0px;
+}
+
+.salchow {
+    padding: 93px;
+    margin-block: 0px;
+    padding-inline-start: 70px;
+    padding-block-start: 119px;
+    height: 200px;
+    padding-top: 90px;
+    padding-bottom: 25px;
+}
+
+.card2 {
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 250px;
+    border: solid pink 2px;
+    border-radius: 7px;
+    margin: 0px;
+   display: inline-table;
+   padding: 0px;
+   margin-left: 20px;
+   
+}
+
+
+.nombre2 {
+    font-size: large;
+    margin-inline-start: 220px;
+    margin-bottom: -68px;
+    padding: 0px;
+}
+
+.toeloop {
+    padding: 93px;
+    margin-block: 0px;
+    padding-inline-start: 70px;
+    padding-block-start: 119px;
+    height: 200px;
+    padding-top: 90px;
+    padding-bottom: 25px;
+    width: 400px;
+}
+
+
+.cards2{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-inline-start: 120px;
+}
+
+.card3 {
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 250px;
+    border: solid pink 2px;
+    border-radius: 7px;
+    margin: 0px;
+   display: inline-table;
+   padding: 0px;
+   margin-top: 20px;
+}
+
+
+.nombre3 {
+    font-size: large;
+    margin-inline-start: 235px;
+    margin-bottom: -68px;
+    padding: 0px;
+}
+
+.loop {
+    padding: 93px;
+    margin-block: 0px;
+    padding-inline-start: 70px;
+    padding-block-start: 119px;
+    height: 200px;
+    padding-top: 90px;
+    padding-bottom: 25px;
+    width: 400px;
+    padding-right: 76px;
+}
+
+.card4 {
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 250px;
+    border: solid pink 2px;
+    border-radius: 7px;
+    margin: 0px;
+   display: inline-table;
+   padding: 0px;
+   margin-left: 20px;
+   margin-top: 20px;
+}
+
+
+.nombre4 {
+    font-size: large;
+    margin-inline-start: 220px;
+    margin-bottom: -68px;
+    padding: 0px;
+}
+
+.flip {
+    padding: 93px;
+    margin-block: 0px;
+    padding-inline-start: 70px;
+    padding-block-start: 119px;
+    height: 200px;
+    padding-top: 90px;
+    padding-bottom: 25px;
+    width: 400px;
+}
+
+.cards3{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-inline-start: 120px;
+}
+
+.card5 {
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 250px;
+    border: solid pink 2px;
+    border-radius: 7px;
+    margin: 0px;
+   display: inline-table;
+   padding: 0px;
+   margin-top: 20px;
+}
+
+.nombre5 {
+    font-size: large;
+    margin-inline-start: 220px;
+    margin-bottom: -68px;
+    padding: 0px;
+}
+
+.lutz {
+    padding: 93px;
+    margin-block: 0px;
+    padding-inline-start: 70px;
+    padding-block-start: 119px;
+    height: 200px;
+    padding-top: 90px;
+    padding-bottom: 25px;
+    width: 400px;
+    padding-right: 76px;
+}
+
+.card6 {
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 250px;
+    border: solid pink 2px;
+    border-radius: 7px;
+    margin: 0px;
+   display: inline-table;
+   padding: 0px;
+   margin-left: 20px;
+   margin-top: 20px;
+}
+
+.nombre6 {
+    font-size: large;
+    margin-inline-start: 220px;
+    margin-bottom: -68px;
+    padding: 0px;
+}
+
+.axel {
+    padding: 93px;
+    margin-block: 0px;
+    padding-inline-start: 70px;
+    padding-block-start: 119px;
+    height: 200px;
+    padding-top: 90px;
+    padding-bottom: 25px;
+    width: 400px;
+    height: 145px;
+}
+
+.texto7{
+    font-size: large;
+    margin-inline-start: 100px;
+}
+
+.values {
+    width: 500px;
+    height: 500px;
+    margin-inline-start: 450px;
+}
