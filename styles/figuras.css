@@ -1,7 +1,13 @@
 body {
     background-color: beige;
+    background: linear-gradient(white,pink);
    }
    
+   header {
+        background-color: beige;
+        padding: 1px;
+        border: solid rgb(246, 246, 246) 10px;
+   }
    header p {
        font-size: 40px;
        font-weight: 500;
@@ -22,6 +28,7 @@ ul {
 
 main p {
  font-size: 20px;
+ margin-inline-start: 20px;
 }
 
 .cards{
@@ -96,7 +103,7 @@ main p {
 
 .card3 p {
     font-size: large;
-    margin-inline-start: 170px;
+    margin-inline-start: 200px;
     margin-bottom: -68px;
 }
 
@@ -106,6 +113,7 @@ main p {
     padding-inline-start: 128px;
     padding-block-start: 119px;
     height: 200px;
+    width: 225px;
 }
 
  .cards2{
@@ -200,5 +208,8 @@ main p {
 
 .pa {
     font-size: 20px;
-    margin-inline-start: 100px;
+    margin-inline-start: 30px;
+    background-color: beige;
+    padding: 1px;
+    border: solid rgb(246, 246, 246) 10px;
 }

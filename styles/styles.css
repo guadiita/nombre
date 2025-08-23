@@ -14,7 +14,7 @@
 }
 
 body {
- background-color: beige;
+ background: linear-gradient(pink,white);
 }
 
 header p {
@@ -22,11 +22,13 @@ header p {
     font-weight: 1000;
     margin-inline-start:  710px;
     padding: 20px;
+    margin-block-start: 20px;
 }
 header nav{
     font-size: medium;
     font-weight: 600;
-    margin-inline-start: 700px;
+    margin-inline-start: 695px;
+    margin-block-start: -25px;
 }
 .cards {
     display: inline-flex; 
@@ -66,10 +68,19 @@ header nav{
 .pie p {
    font-size: 20px;
   margin-block-start: 200px;
+  background-color: beige;
+   padding: 1px;
+   border: solid rgb(246, 246, 246) 10px;
 }
 
 
 p {
   margin: 40px;
   font-size: 30px;
+ }
+
+ header {
+   background-color: beige;
+   padding: 1px;
+   border: solid rgb(246, 246, 246) 10px;
  }

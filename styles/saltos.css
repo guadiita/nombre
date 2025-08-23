@@ -1,5 +1,5 @@
 body {
-    background-color: beige;
+    background: linear-gradient(white,pink);
    }
    
    header p {
@@ -14,6 +14,11 @@ body {
        margin-inline-start: 605px;
    }
 
+   header{
+    background-color: beige;
+   padding: 1px;
+   border: solid rgb(183, 165, 165) 10px;
+   }
 
 .cards{
     display:flex;
@@ -227,7 +232,10 @@ body {
 
 .texto7{
     font-size: large;
-    margin-inline-start: 100px;
+    margin-inline-start: 40px;
+    background-color: beige;
+    padding: 1px;
+    border: solid rgb(246, 246, 246) 10px;
 }
 
 .values {

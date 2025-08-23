@@ -1,5 +1,5 @@
 body {
-    background-color: beige;
+    background:linear-gradient(white,pink);
    }
    
    header p {
@@ -13,6 +13,11 @@ body {
        font-weight: 600;
        margin-inline-start: 605px;
    }
+header{
+   background-color: beige;
+   padding: 1px;
+   border: solid rgb(183, 165, 165) 10px;
+}
 
 main ol {
  list-style: none;
@@ -202,7 +207,10 @@ main p{
 
 footer p{
     font-size: 20px;
-    margin-inline-start: 100px;
+    margin-inline-start: 30px;
+    background-color: beige;
+    padding: 1px;
+    border: solid rgb(246, 246, 246) 10px;
 }
 
 .values {
