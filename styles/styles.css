@@ -10,9 +10,6 @@
     height: 600px;
     border: solid pink 2px;
     border-radius: 7px;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-content: space-around;
 }
 
 body {
@@ -33,7 +30,7 @@ header nav{
     margin-block-start: -25px;
 }
 .cards {
-    display: inline-flex; 
+    display: flex; 
     justify-content: center;
     align-items: center;
     flex-direction: row;
