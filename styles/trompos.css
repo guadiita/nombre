@@ -29,6 +29,12 @@ main p{
     margin-inline-start: 38px;
 }
 
+.spins {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .cards{
     display:flex;
     flex-direction: row;
