@@ -6,7 +6,12 @@ body {
    header {
         background-color: beige;
         padding: 1px;
-        border: solid rgb(246, 246, 246) 10px;
+        border: solid rgb(223, 194, 194) 10px;
+        display: flex;
+        align-items: center;
+        align-content: center;
+        flex-direction: row;
+        flex-wrap: wrap;
    }
    header p {
        font-size: 40px;
@@ -31,11 +36,16 @@ main p {
  margin-inline-start: 20px;
 }
 
+.figures{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .cards{
     display:flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    margin-inline-start: 65px;
 }
 
 .card1 {
@@ -121,7 +131,6 @@ main p {
     flex-direction: row;
     flex-wrap: nowrap;
     padding: 0px;
-    margin-inline-start: 65px;
 }
 
 .card4 {
