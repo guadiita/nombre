@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 
-
 .tipos ul{
     list-style: none ;
 }
@@ -10,37 +9,60 @@
     height: 600px;
     border: solid pink 2px;
     border-radius: 7px;
+    margin-left: 150px;
 }
 
 body {
  background: linear-gradient(pink,white);
 }
 
+ header {
+   background-color: beige;
+   padding: 1px;
+   border: solid rgb(246, 246, 246) 10px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+
 header p {
     font-size: 30px;
     font-weight: 1000;
-    margin-inline-start:  710px;
-    padding: 20px;
-    margin-block-start: 20px;
 }
+
 header nav{
     font-size: medium;
     font-weight: 600;
-    margin-inline-start: 695px;
-    margin-block-start: -25px;
 }
-.cards {
+
+.pie p {
+   font-size: 20px;
+  margin-block-start: 200px;
+  background-color: beige;
+   padding: 1px;
+   border: solid rgb(246, 246, 246) 10px;
+}
+
+
+p {
+  margin: 40px;
+  font-size: 30px;
+ }
+
+ .cards {
     display: flex; 
-    justify-content: center;
-    align-items: center;
+    justify-content: space-evenly;
+    align-content: space-evenly;
     flex-direction: row;
     flex-wrap: nowrap;
-}
- .card1 {
+    align-items: center;
+
+   }.card1 {
     border: solid white 3px;
     border-radius: 10px;
     margin: 20px;
  }
+ 
  .card1 p {
     margin-inline-start: 160px;
     font-size: large; 
@@ -65,24 +87,4 @@ header nav{
  }
  .img, .img1, .img2 {
   margin: 20px;
- }
-
-.pie p {
-   font-size: 20px;
-  margin-block-start: 200px;
-  background-color: beige;
-   padding: 1px;
-   border: solid rgb(246, 246, 246) 10px;
-}
-
-
-p {
-  margin: 40px;
-  font-size: 30px;
- }
-
- header {
-   background-color: beige;
-   padding: 1px;
-   border: solid rgb(246, 246, 246) 10px;
  }
